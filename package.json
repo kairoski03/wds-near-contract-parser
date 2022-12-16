@@ -1,10 +1,10 @@
 {
-  "name": "near-contract-parser",
+  "name": "wds-near-contract-parser",
   "version": "0.1.5",
   "description": "Parse NEAR smart contract WASM code.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NEARFoundation/near-contract-parser"
+    "url": "https://github.com/kairoski03/wds-near-contract-parser.git"
   },
   "main": "lib/index.js",
   "files": [
